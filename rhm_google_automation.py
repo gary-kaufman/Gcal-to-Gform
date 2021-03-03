@@ -89,7 +89,7 @@ def main():
                 #options.add_argument("--headless")
 
                 driver = webdriver.Chrome(options=options)
-                driver.get("https://docs.google.com/forms/d/e/1FAIpQLSc7Vj_luBStUynIm8_pRCMPT1BU7hE16Rkan2vNbVpeqGSz4g/viewform")
+                driver.get("ENTER GOOGLE FORM ADDRESS HERE")
                 time.sleep(5)
 
                 #input information
